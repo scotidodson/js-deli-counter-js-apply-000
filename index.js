@@ -4,8 +4,8 @@ var customer = 0;
 function takeANumber(katzDeliLine) {
   customer++;
   katzDeliLine.push(customer);
-  var greeting = "Welcome, you are number " + `${customer}`;
-  return greeting;
+  var greeting = ;
+  return greeting"Welcome, you are number " + `${customer}`;
 }
 
 function nowServing(katzDeliLine) {
