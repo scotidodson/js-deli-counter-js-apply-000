@@ -1,8 +1,8 @@
 var katzDeli = [];
-
+var customer = 0;
 
 function takeANumber(katzDeliLine) {
-  var customer = 
+  
   katzDeliLine.push(name);
   var greeting = "Welcome, " + `${name}` + ". You are number " + katzDeliLine.length  + " in line.";
   return greeting;
